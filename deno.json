@@ -1,6 +1,7 @@
 {
   "name": "@dnl-fm/unique-id",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "description": "Lightweight TypeScript utility for generating unique identifiers",
   "exports": "./mod.ts",
   "test": {
     "include": [
