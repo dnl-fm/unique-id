@@ -1,3 +1,3 @@
-import { UniqueId } from './src/unqiue-id.ts';
+import { UniqueId } from './src/unique-id.ts';
 
 export { UniqueId };

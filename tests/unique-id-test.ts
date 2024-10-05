@@ -1,5 +1,5 @@
 import { assertEquals, assertMatch } from "jsr:@std/assert";
-import { UniqueId } from "../src/unqiue-id.ts";
+import { UniqueId } from "../src/unique-id.ts";
 
 Deno.test("UniqueId.create - default parameters", () => {
   const id = UniqueId.create();
